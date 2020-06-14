@@ -10,6 +10,9 @@ export default function Home() {
       </Head>
 
       <main>
+		 <h1 className="title">
+          Hello Next.js!
+        </h1>
         <h1 className="title">
           Read <Link href="/posts/first-post"><a>this page!</a></Link>
         </h1>
