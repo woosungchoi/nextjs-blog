@@ -1,7 +1,11 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
-date: '2020-01-02'
+title: '언제 정적 사이트를 생성하고 서버사이드 렌더링을 사용할까요?'
+date: '2020-06-14'
 ---
+
+현 대세로써 둘다 필요하다고 생각해요!
+
+그렇다면 Next.js는 좋은 선택입니다.
 
 We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
 
