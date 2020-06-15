@@ -7,7 +7,9 @@ date: '2020-06-16'
 
 원래 데모 사이트의 것을 가져와서 만들려고 했는데... 
 
-로컬에서는 잘되는데, 깃허브에 올린 후 vercel에 올리면 문제가 발생해서 어떻게 해야할지 난감하네요 ㅠㅠ
+로컬에서는 잘되는데, 깃허브에 올린 후 vercel에 올리면 문제가 발생해서 어떻게 해야할지 고민되네요!
+
+음.. 여기는 하나씩 뭔가 만들어가는 재미가 있는 곳입니다. ㅋㅋㅋ
 
 We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
 
