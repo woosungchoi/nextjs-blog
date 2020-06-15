@@ -1,7 +1,9 @@
 ---
-title: 'Two Forms of Pre-rendering'
-date: '2020-01-01'
+title: '프리렌더링의 두가지 형태'
+date: '2020-06-15'
 ---
+
+프리렌더링에는 두가지 형태가 있습니다.
 
 Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
 
